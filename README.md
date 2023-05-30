@@ -18,6 +18,12 @@ This tool provides the following options to administrators:
 
 **User Details:** This feature allows the administrator to view all relevant details of a user account. This includes, but is not limited to, full name, user role, last login time, etc.
 
+# <h2> **Instructions**
+1) To use this download all the Powershell files and update all the Oroganization Units as per your organization.
+2) Since "The Menu.ps1" calls all the powershell files fix all the addresses of the ps files in the "The Menu.ps1" file.
+3) Check the email address too in the "Application Deployment.ps1" and "Group Deployment.ps1"
+
+# <h2> **Conclusion and Future aspects**
 ActiveDirectoryMenu not only simplifies the overall process of user management in AD, but it also creates a more controlled environment by sending out email notifications whenever changes are made. This project aims to increase productivity, optimize workflow, and enhance the overall security of your AD management.
 
 Future developments of this project may include more advanced features like a user audit trail, batch processing for large user groups, and enhanced customization of the user interface.
