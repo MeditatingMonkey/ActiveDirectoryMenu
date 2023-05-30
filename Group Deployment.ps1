@@ -230,8 +230,8 @@ Hello $($userr.GivenName), <br/>
 "@
     }
 
-    $EmailFrom = "fbctechnicalsupport@fortisbc.com"
-    $EmailTo = "tusshar.singh@fortisbc.com"
+    $EmailFrom = "abc@mail.com"
+    $EmailTo = "xyz@mail.com"
 
     $Body = $upperText + $tableHeader + $tableRows + $tableFooter + $LowerText
     $SMTPServer = "smtp.corp.local"
