@@ -19,7 +19,7 @@ This tool provides the following options to administrators:
 **User Details:** This feature allows the administrator to view all relevant details of a user account. This includes, but is not limited to, full name, user role, last login time, etc.
 
 # <h2> **Instructions**
-1) To use this download all the Powershell files and update all the Oroganization Units as per your organization.
+1) To use this download all the Powershell files and update all the Organization Units as per your organization.
 2) Since "The Menu.ps1" calls all the powershell files fix all the addresses of the ps files in the "The Menu.ps1" file.
 3) Check the email address too in the "Application Deployment.ps1" and "Group Deployment.ps1"
 
